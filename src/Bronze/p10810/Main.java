@@ -1,4 +1,4 @@
-package p10810;
+package Bronze.p10810;
 
 import java.util.Scanner;
 public class Main {

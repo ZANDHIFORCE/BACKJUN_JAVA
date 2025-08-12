@@ -1,4 +1,4 @@
-package p1001;
+package Bronze.p1001;
 
 import java.util.Scanner;
 

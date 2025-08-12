@@ -1,4 +1,4 @@
-package p1000;
+package Bronze.p1000;
 import java.util.Scanner;
 
 public class Main {
