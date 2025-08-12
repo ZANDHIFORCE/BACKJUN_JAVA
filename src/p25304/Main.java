@@ -13,12 +13,13 @@ public class Main {
             int quantity = sc.nextInt();
             totalPrice += value*quantity;
         }
+        sc.close();
         if(x == totalPrice){
             System.out.println("Yes");
         }
         else{
             System.out.println("No");
         }
-        sc.close();
+
     }
 }

@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();
+        sc.close();
         if(num1!=0){
             num1-=1;
         }
@@ -13,6 +14,6 @@ public class Main {
             System.out.print("long ");
         }
         System.out.println("int");
-        sc.close();
+
     }
 }

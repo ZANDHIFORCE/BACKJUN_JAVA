@@ -12,6 +12,7 @@ public class Main {
             arr[i] = tempInt;
         }
         int v = sc.nextInt();
+        sc.close();
 
         int count = 0;
         for(int i=0;i<length;i++){
@@ -20,6 +21,6 @@ public class Main {
             }
         }
         System.out.println(count);
-        sc.close();
+
     }
 }
