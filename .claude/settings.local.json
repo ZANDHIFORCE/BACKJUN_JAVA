@@ -6,7 +6,9 @@
       "Bash(move:*)",
       "Bash(mv:*)",
       "Bash(rmdir:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(/usr/bin/env /opt/java/11.0.14/bin/java -cp /home/codespace/.vscode-remote/data/User/workspaceStorage/16e3fc36/redhat.java/jdt_ws/BACKJUN_JAVA_b09be947/bin Main)",
+      "WebSearch"
     ],
     "deny": []
   }
