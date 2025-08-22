@@ -1,4 +1,4 @@
-package Bronze.p25314;
+package 반복문.p25314;
 
 import java.util.Scanner;
 public class Main {

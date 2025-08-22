@@ -1,4 +1,4 @@
-package Bronze.p10813;
+package 일차원배열.p10813;
 
 import java.util.Scanner;
 public class Main {

@@ -1,4 +1,4 @@
-package p2444;
+package 심화1.p2444;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){

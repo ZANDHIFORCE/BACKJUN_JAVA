@@ -1,4 +1,4 @@
-package Bronze.p9086;
+package 문자열처리.p9086;
 
 import java.util.Scanner;
 public class Main {

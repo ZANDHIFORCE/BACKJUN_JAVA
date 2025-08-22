@@ -1,4 +1,4 @@
-package Bronze.p25304;
+package 조건문.p25304;
 
 import java.util.Scanner;
 

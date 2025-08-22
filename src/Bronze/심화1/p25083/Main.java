@@ -1,4 +1,4 @@
-package p25083;
+package 심화1.p25083;
 
 public class Main {
     public static void main(String[] args){

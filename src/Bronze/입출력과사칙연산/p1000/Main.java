@@ -1,4 +1,4 @@
-package Bronze.p1000;
+package 입출력과사칙연산.p1000;
 import java.util.Scanner;
 
 public class Main {

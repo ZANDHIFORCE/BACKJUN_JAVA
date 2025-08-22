@@ -1,4 +1,4 @@
-package Bronze.p1001;
+package 입출력과사칙연산.p1001;
 
 import java.util.Scanner;
 

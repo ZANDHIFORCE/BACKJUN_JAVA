@@ -1,4 +1,4 @@
-package Bronze.p2908;
+package 문자열처리.p2908;
 
 import java.util.Scanner;
 
