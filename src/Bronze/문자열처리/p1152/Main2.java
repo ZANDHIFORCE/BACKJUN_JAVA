@@ -1,4 +1,4 @@
-package 문자열처리.p1152;
+package Bronze.문자열처리.p1152;
 
 import java.util.Scanner;
 

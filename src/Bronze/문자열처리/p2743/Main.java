@@ -1,4 +1,4 @@
-package 문자열처리.p2743;
+package Bronze.문자열처리.p2743;
 
 import java.util.Scanner;
 public class Main {
