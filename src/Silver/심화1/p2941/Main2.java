@@ -1,4 +1,4 @@
-package Silver.p2941;
+package Silver.심화1.p2941;
 
 import java.util.Scanner;
 public class Main2 {

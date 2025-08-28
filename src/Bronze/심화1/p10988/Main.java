@@ -1,4 +1,4 @@
-package Bronze.심화1.p10988;
+package 심화1.p10988;
 
 import java.util.Scanner;
 public class Main{
